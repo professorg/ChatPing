@@ -1,0 +1,131 @@
+[01:48:59] [main/INFO]: Loading for game Minecraft 1.14.4
+[01:48:59] [main/WARN]: Mod `cotton-client-commands` (0.4.2+1.14.3-SNAPSHOT) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[01:48:59] [main/WARN]: Mod `autoconfig1` (1.2.0+mc1.14.4) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[01:48:59] [main/WARN]: Mod `cloth-config` (0.2.1+build.14) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[01:48:59] [main/INFO]: [FabricLoader] Loading 33 mods: minecraft@1.14.4, fabric-networking-blockentity-v0@0.1.1+b494ebeb42, fabric-renderer-api-v1@0.1.1+9b03381f42, fabric-keybindings-v0@0.1.1+7dfef87c42, modmenu@1.6.3-95, fabricloader@0.6.1+build.164, fabric-renderer-indigo@0.1.13+68fade5542, fabric-containers-v0@0.1.2+b494ebeb42, fabric-biomes-v1@0.1.0+896c7fbb42, fabric-crash-report-info-v1@0.1.1+9f55aa7042, fabric-events-interaction-v0@0.1.1+9f55aa7042, cotton-client-commands@0.4.2+1.14.3-SNAPSHOT, fabric-api-base@0.1.0+b494ebeb42, fabric-rendering-v0@0.1.1+6dad974e42, fabric-rendering-data-attachment-v1@0.1.0+b494ebeb42, fabric-resource-loader-v0@0.1.3+b02deb0042, fabric-textures-v0@0.1.4+b494ebeb42, fabric-content-registries-v0@0.1.1+b494ebeb42, fabric-tag-extensions-v0@0.1.1+b494ebeb42, fabric-rendering-fluids-v1@0.1.1+39442fc242, fabric-commands-v0@0.1.1+b494ebeb42, fabric-registry-sync-v0@0.2.2+9b03381f42, modid@1.0.0, autoconfig1@1.2.0+mc1.14.4, cloth-config@0.2.1+build.14, fabric-mining-levels-v0@0.1.0+ab421b9c42, fabric-events-lifecycle-v0@0.1.1+eff46b3d42, fabric-loot-tables-v1@0.1.0+b494ebeb42, fabric@0.3.2+build.218-1.14, fabric-models-v0@0.1.0+5914746342, fabric-item-groups-v0@0.1.0+1e69a0a542, fabric-object-builders-v0@0.1.1+9b03381f42, fabric-networking-v0@0.1.3+9f55aa7042
+[01:48:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/home/professorg/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.7.11.38/7dab4556021e5cf7ee1052c36c184f59ae4cba05/sponge-mixin-0.7.11.38.jar Service=Knot/Fabric Env=CLIENT
+[01:49:00] [main/INFO]: Loaded Fabric development mappings for mixin remapper!
+[01:49:00] [main/INFO]: Compatibility level set to JAVA_8
+[01:49:00] [main/INFO]: Remapping refMap fabric-networking-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-networking-blockentity-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-biomes-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-mining-levels-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-renderer-indigo-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-rendering-data-attachment-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-events-interaction-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-loot-tables-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-textures-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-registry-sync-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-models-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-keybindings-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-events-lifecycle-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-rendering-fluids-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-resource-loader-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap cotton-client-commands-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-rendering-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-object-builders-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-tag-extensions-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-item-groups-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-content-registries-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-crash-report-info-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-commands-v0-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
+[01:49:00] [main/INFO]: Remapping refMap ModMenu-1.14-refmap.json using remapper chain
+[01:49:01] [main/INFO]: Setting user: Player290
+[01:49:06] [main/INFO]: [Indigo] Registering Indigo renderer!
+[01:49:06] [main/WARN]: Skipping bad option: lastServer:
+[01:49:06] [main/INFO]: LWJGL Version: 3.2.2 build 10
+[01:49:10] [main/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'fliteWrapper': Can't obtain InputStream for linux-x86-64/libfliteWrapper.so
+[01:49:11] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[01:49:26] [main/INFO]: OpenAL initialized.
+[01:49:26] [main/INFO]: Sound engine started
+[01:49:26] [main/INFO]: Created: 1024x512 textures-atlas
+[01:49:27] [main/INFO]: Created: 256x256 textures/particle-atlas
+[01:49:27] [main/INFO]: Created: 256x256 textures/painting-atlas
+[01:49:27] [main/INFO]: Created: 256x128 textures/mob_effect-atlas
+[01:49:37] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[01:49:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:49:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:49:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:49:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:49:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:49:38] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[01:49:38] [Server thread/INFO]: Generating keypair
+[01:49:38] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[01:49:38] [Server thread/INFO]: Reloading ResourceManager: Default, fabric-mining-levels-v0
+[01:49:39] [Server thread/INFO]: Loaded 6 recipes
+[01:49:40] [Server thread/INFO]: Loaded 811 advancements
+[01:49:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:49:41] [main/INFO]: Preparing spawn area: 0%
+[01:49:41] [main/INFO]: Preparing spawn area: 0%
+[01:49:41] [main/INFO]: Preparing spawn area: 0%
+[01:49:42] [main/INFO]: Preparing spawn area: 0%
+[01:49:45] [main/INFO]: Preparing spawn area: 83%
+[01:49:45] [main/INFO]: Preparing spawn area: 83%
+[01:49:45] [main/INFO]: Preparing spawn area: 83%
+[01:49:45] [main/INFO]: Preparing spawn area: 83%
+[01:49:45] [main/INFO]: Preparing spawn area: 83%
+[01:49:45] [main/INFO]: Preparing spawn area: 83%
+[01:49:45] [main/INFO]: Preparing spawn area: 95%
+[01:49:46] [main/INFO]: Preparing spawn area: 95%
+[01:49:46] [main/INFO]: Preparing spawn area: 95%
+[01:49:47] [main/INFO]: Preparing spawn area: 97%
+[01:49:47] [main/INFO]: Time elapsed: 6897 ms
+[01:49:48] [Server thread/INFO]: Player290[local:E:eee001cc] logged in with entity id 270 at (85.15653418445407, 80.71986957517527, 77.69480443653676)
+[01:49:48] [Server thread/INFO]: Player290 joined the game
+[01:49:49] [Server thread/INFO]: Saving and pausing game...
+[01:49:49] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[01:49:49] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[01:49:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[01:49:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[01:49:51] [main/INFO]: Loaded 0 advancements
+[01:49:52] [main/INFO]: [CHAT] Ping list is empty
+[01:49:56] [main/INFO]: [CHAT] Registered ping for "cow" with sound minecraft:entity.player.levelup
+[01:50:00] [main/INFO]: [CHAT] Registered ping for /prof/ with sound minecraft:entity.player.levelup
+[01:50:20] [main/INFO]: [CHAT] Registered ping for /my_[a-zA-Z]+_guy/ with sound minecraft:ambient.cave
+[01:50:22] [Server thread/INFO]: <Player290> my_cool_guy
+[01:50:22] [main/INFO]: [STDOUT]: Tried to play sound from ping: /my_[a-zA-Z]+_guy/ : minecraft:ambient.cave
+[01:50:22] [main/INFO]: [CHAT] <Player290> my_cool_guy
+[01:50:35] [main/INFO]: [CHAT] Registered ping for /my_[a-zA-Z]+_guy/ with sound minecraft:entity.player.levelup
+[01:50:36] [Server thread/INFO]: <Player290> my_cool_guy
+[01:50:36] [main/INFO]: [STDOUT]: Tried to play sound from ping: /my_[a-zA-Z]+_guy/ : minecraft:ambient.cave
+[01:50:36] [main/INFO]: [STDOUT]: Tried to play sound from ping: /my_[a-zA-Z]+_guy/ : minecraft:entity.player.levelup
+[01:50:36] [main/INFO]: [CHAT] <Player290> my_cool_guy
+[01:50:39] [main/INFO]: [CHAT] fd463585 "cow" - minecraft:entity.player.levelup
+[01:50:39] [main/INFO]: [CHAT] bd381b19 /prof/ - minecraft:entity.player.levelup
+[01:50:39] [main/INFO]: [CHAT] a4713962 /my_[a-zA-Z]+_guy/ - minecraft:ambient.cave
+[01:50:39] [main/INFO]: [CHAT] c361ee02 /my_[a-zA-Z]+_guy/ - minecraft:entity.player.levelup
+[01:50:41] [main/INFO]: Loaded 2 advancements
+[01:51:02] [Server thread/INFO]: <Player290> cow
+[01:51:02] [main/INFO]: [STDOUT]: Tried to play sound from ping: "cow" : minecraft:entity.player.levelup
+[01:51:02] [main/INFO]: [CHAT] <Player290> cow
+[01:51:03] [Server thread/INFO]: <Player290> prof
+[01:51:03] [main/INFO]: [STDOUT]: Tried to play sound from ping: /prof/ : minecraft:entity.player.levelup
+[01:51:03] [main/INFO]: [CHAT] <Player290> prof
+[01:51:08] [Server thread/INFO]: <Player290> my_cool_guy
+[01:51:08] [main/INFO]: [STDOUT]: Tried to play sound from ping: /my_[a-zA-Z]+_guy/ : minecraft:ambient.cave
+[01:51:08] [main/INFO]: [STDOUT]: Tried to play sound from ping: /my_[a-zA-Z]+_guy/ : minecraft:entity.player.levelup
+[01:51:08] [main/INFO]: [CHAT] <Player290> my_cool_guy
+[01:51:11] [Server thread/INFO]: Saving and pausing game...
+[01:51:11] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[01:51:11] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[01:51:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[01:51:12] [Server thread/INFO]: Player290 lost connection: Disconnected
+[01:51:12] [Server thread/INFO]: Player290 left the game
+[01:51:12] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[01:51:12] [Server thread/INFO]: Stopping server
+[01:51:12] [Server thread/INFO]: Saving players
+[01:51:12] [Server thread/INFO]: Saving worlds
+[01:51:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[01:51:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[01:51:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[01:51:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[01:51:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[01:51:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:13] [main/INFO]: Stopping!

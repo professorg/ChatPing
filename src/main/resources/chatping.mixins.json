@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "us.kosdt.chatping.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ChatHandlerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "modid",
+  "version": "${version}",
+
+  "name": "Chat Ping",
+  "description": "This mod makes a sound when certain keywords are said in chat.",
+  "authors": [
+    "ProfessorG"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/chatping/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "us.kosdt.chatping.ChatPing"
+    ],
+    "cotton-client-commands": ["us.kosdt.chatping.command.ChatPingCommand"]
+  },
+  "mixins": [
+    "chatping.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  },
+  "custom": {
+    "modmenu:api": false,
+    "modmenu:clientsideOnly": true
+  }
+}

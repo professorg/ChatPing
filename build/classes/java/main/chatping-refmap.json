@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "us/kosdt/chatping/mixin/ChatHandlerMixin": {
+      "onChatMessage": "Lnet/minecraft/class_335;method_1794(Lnet/minecraft/class_2556;Lnet/minecraft/class_2561;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "us/kosdt/chatping/mixin/ChatHandlerMixin": {
+        "onChatMessage": "Lnet/minecraft/class_335;method_1794(Lnet/minecraft/class_2556;Lnet/minecraft/class_2561;)V"
+      }
+    }
+  }
+}
