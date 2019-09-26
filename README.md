@@ -1,16 +1,10 @@
-# Fabric Example Mod
+# ChatPing Mod
 
-## Setup
+## Commands
 
-1. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-2. Run the following command:
+`/chatping` contains all the functionality of the mod.
 
-```
-./gradlew idea
-```
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- `/chatping register <pattern> [regex] [sound]` registers a new ping
+- `/chatping list` lists all registered pings
+- `/chatping delete <id>` deletes ping with the matching id
+- `/chatping clear` clears the list of pings
