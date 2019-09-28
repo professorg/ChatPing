@@ -31,9 +31,11 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modCompile "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+	include "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
 	// Cotton
 	modCompile "io.github.cottonmc:cotton-client-commands:0.4.2+1.14.3-SNAPSHOT"
+	include "io.github.cottonmc:cotton-client-commands:0.4.2+1.14.3-SNAPSHOT"
 
 	// Cloth and auto-config
 	modCompile "cloth-config:ClothConfig:${project.cloth_config_version}"
