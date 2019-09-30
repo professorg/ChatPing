@@ -16,7 +16,7 @@ public class ChatHandlerMixin {
 
     @Inject(at = @At("HEAD"), method = "onChatMessage")
     private void onChat(MessageType messageType, Text text, CallbackInfo ci) {
-        String message = text.asString();
+        String message = text.getString();
         for (ChatPingEntry entry : ChatPingData.entries) {
             entry.checkMatch(message);
         }
